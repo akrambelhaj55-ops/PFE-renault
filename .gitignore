@@ -5,3 +5,6 @@ __pycache__/
 *.xlsx
 data/
 outputs/*.png
+config/credentials.json
+config/credentials.json
+config/bigquery_credentials.json
